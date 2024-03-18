@@ -1,0 +1,5 @@
+.env
+/configs/config.yaml
+.idea
+.env
+.database
